@@ -1,6 +1,6 @@
-# Multiplayer Pong Game
+# Single/Multi Player Pong Game
 
-This is a simple Multiplayer Pong Game with Socket.io.
+This is a simple single/multi player Pong Game.
 
 ## Available Scripts
 
