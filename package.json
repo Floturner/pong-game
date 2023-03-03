@@ -1,0 +1,21 @@
+{
+	"name": "pong-game",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"private": true,
+	"scripts": {
+		"dev": "nodemon server.js",
+		"start": "node server.js"
+	},
+	"keywords": [],
+	"author": "Florent Taboukouna",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2",
+		"socket.io": "^4.6.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	}
+}
